@@ -1,0 +1,9 @@
+a {
+    color: blue;
+    text-decoration: underline;
+}
+    
+a:hover {
+    color: red; /* Изменение цвета при наведении */
+    transition: color 0.3s ease; /* Анимация изменения цвета */
+}
